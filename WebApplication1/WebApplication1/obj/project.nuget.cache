@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GoO2Brt6l4TSMv1NwbZ0VDd0gRLW10On5yYHfmCB5x3uZ6VZ332Yp68g+gSMJ0tAdHyQu4rPSIcbpy/4aXi/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roman\\source\\repos\\lab1XO\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.dct.ua/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
